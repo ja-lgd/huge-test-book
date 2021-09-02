@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Initial page](README.md)
+* [library](library.md)
 
 ## Group test 1
 
